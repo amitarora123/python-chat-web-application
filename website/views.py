@@ -9,9 +9,9 @@ from cloudinary.utils import cloudinary_url
 
 # Add your cloudinary credentials here!
 Cloud.config( 
-  cloud_name = "ddlfegpgn", 
-  api_key = "987192323217626", 
-  api_secret = "2icjYQdhb9yFXY-Zj8d2-aQbW80" 
+  cloud_name = "", 
+  api_key = "", 
+  api_secret = "" 
 )
 @views.route('/')
 def landing_page():
