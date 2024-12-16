@@ -31,7 +31,7 @@
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 - "git clone https://github.com/pri1311/crunch"
-- "cd crunch" 
+- "cd python-chat-web-application" 
 - "pip install -r requirements.txt"
 - Add your cloudinary credentials to main.py, auth.py and views.py files.
 - "python main.py" 
